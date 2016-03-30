@@ -48,3 +48,8 @@ div#foodMenu {
     padding-top: 2%;
 }
 
+div#navigation {
+    float: right;
+    padding-top: 3%;
+    font-size: 21px;
+}
