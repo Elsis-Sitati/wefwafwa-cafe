@@ -42,4 +42,9 @@ img {
 p {
     margin-top: -1%;
 }
+div#foodMenu {
+    text-align: center;
+    height: 29%;
+    padding-top: 2%;
+}
 
