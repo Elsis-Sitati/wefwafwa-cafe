@@ -29,4 +29,17 @@ div#imageHolder {
 div#menu {
     background-color: #F8F8F8;
     height: 91%;
+    width: 100%;
 }
+div#menuItem {
+    padding-top: 3%;
+    padding-left: 4%;
+}
+img {
+    float: left;
+    padding-right: 6%;
+}
+p {
+    margin-top: -1%;
+}
+
