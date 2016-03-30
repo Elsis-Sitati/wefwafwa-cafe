@@ -25,3 +25,8 @@ div#imageHolder {
     background-color: burlywood;
     height: 17%;
 }
+
+div#menu {
+    background-color: #F8F8F8;
+    height: 91%;
+}
