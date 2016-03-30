@@ -16,3 +16,9 @@ div#menu {
     padding-right: 5%;
     font-size: 19px;
 }
+
+div#imageHolder {
+    background-color: blue;
+    height: 87%;
+    margin-top: 5%;
+}
