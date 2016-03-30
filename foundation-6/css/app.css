@@ -16,8 +16,12 @@ div#menu {
     padding-right: 5%;
     font-size: 19px;
 }
-
 div#imageHolder {
-    height: 87%;
-    margin-top: 5%;
+    height: 94%;
+    margin-top: 0%;
+}
+    
+   div#header {
+    background-color: burlywood;
+    height: 17%;
 }
