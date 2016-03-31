@@ -63,3 +63,17 @@ div#contactHeading {
     padding-bottom: 6%;
     padding-top: 2%;
 }
+h1 {
+    font-family: 'Playfair Display', serif;
+    color: #DCC398;
+}
+div#textArea {
+    padding-top: 2%;
+}
+textarea {
+    height: 170px;
+}
+div#button1 {
+    text-align: center;
+    padding-top: 3%;
+}
