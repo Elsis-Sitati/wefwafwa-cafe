@@ -16,17 +16,17 @@
 
 <body>
     <!--This is the div for the landing page -->
-    <div class="row expanded" id="mainPage">
+    <div class="row expanded" id="about">
         <div class="small-12 large-12 columns" id="header">
             <div id="title">Wefafwa Cafe</div>
             <!--This is div for the menu-->
             <div id="navigation">
                 <ul class="menu simple">
 
-                    <li><a href="#">about</a></li>
-                    <li><a href="#">menu</a></li>
-                    <li><a href="#">contacts</a></li>
-                    <li><a href="#">location</a></li>
+                    <li><a href="#about">about</a></li>
+                    <li><a href="#menu">menu</a></li>
+                    <li><a href="#contact">contact</a></li>
+                    <li><a href="#location">location</a></li>
                 </ul>
             </div>
         </div>
@@ -131,7 +131,7 @@
         </div>
     
     </div>
-<div class="row expanded" id ="map">
+<div class="row expanded" id ="location">
 <div class="small-12 large-12 columns" id="mapHolder" >
     <script src='https://maps.googleapis.com/maps/api/js?v=3.exp'></script><div style='overflow:hidden;height:500px;width:700px;'><div id='gmap_canvas' style='height:500px;width:700px;'></div><div><small><a href="http://embedgooglemaps.com">									embed google maps							</a></small></div><div><small><a href="http://www.autohuren.world/">auto huren</a></small></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style></div><script type='text/javascript'>function init_map(){var myOptions = {zoom:10,center:new google.maps.LatLng(52.2296756,21.012228700000037),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(52.2296756,21.012228700000037)});infowindow = new google.maps.InfoWindow({content:'<strong>Title</strong><br>Warsaw, Poland<br>'});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>
 </div>

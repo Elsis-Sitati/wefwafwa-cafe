@@ -1,4 +1,4 @@
-div#mainPage {
+div#about {
     height: 90%;
 }
 
@@ -77,7 +77,7 @@ div#button1 {
     text-align: center;
     padding-top: 3%;
 }
-div#map {
+div#location {
     height: 100%;
     background-color: #F8F8F8;
     
