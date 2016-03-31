@@ -53,3 +53,13 @@ div#navigation {
     padding-top: 3%;
     font-size: 21px;
 }
+div#contact {
+    clear: both;
+    height: 100%;
+    background-color: #F8F8F8;
+}
+div#contactHeading {
+    text-align: center;
+    padding-bottom: 6%;
+    padding-top: 2%;
+}
