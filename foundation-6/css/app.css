@@ -77,3 +77,12 @@ div#button1 {
     text-align: center;
     padding-top: 3%;
 }
+div#map {
+    height: 100%;
+    background-color: #F8F8F8;
+    
+}
+div#mapHolder {
+    padding-top: 5%;
+    padding-left: 22%;
+}
